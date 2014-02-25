@@ -1,0 +1,7 @@
+{
+    "name": "davealbert/composer-pkg-1",
+    "description": "This is a test package",
+    "require": {
+       "php": ">=5.3.0"
+    }
+}
